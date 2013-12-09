@@ -14,7 +14,7 @@ CONFIG += no_include_pwd
 # Dependency library locations can be customized with BOOST_INCLUDE_PATH, 
 #    BOOST_LIB_PATH, BDB_INCLUDE_PATH, BDB_LIB_PATH
 #    OPENSSL_INCLUDE_PATH and OPENSSL_LIB_PATH respectively
-
+ 
 OBJECTS_DIR = build
 MOC_DIR = build
 UI_DIR = build
