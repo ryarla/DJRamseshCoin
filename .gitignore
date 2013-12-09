@@ -20,4 +20,4 @@ qrc_*.cpp
 *.pro.user
 #mac specific
 Litecoin-Qt.*
-.DS_Store
+.DS_Store  
