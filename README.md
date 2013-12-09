@@ -13,7 +13,6 @@ This will be cryptocoins that will be used to pay DJs, more details coming soon.
 <li>200 coins per block
 <li>2016 blocks to retarget difficulty
 </ul>
-For more information, as well as an immediately useable, binary version of the Litecoin client sofware, see http://bbqcoinfoundation.org/.
 
 <h2>
 <a name="license" class="anchor" href="#license"><span class="octicon octicon-link"></span></a>License</h2>
