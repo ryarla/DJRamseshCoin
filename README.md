@@ -5,7 +5,7 @@
 <p>Copyright (c) 2009-2013 Bitcoin Developers
 Copyright (c) 2011-2013 Litecoin Developers</p>
 <h2>What is DJRamseshCoin?</h2>
-Details oming soon, but this will be cryptocoins that will be used to pay DJs. 
+This will be cryptocoins that will be used to pay DJs, more details coming soon.
 <ul>
 <li>1 minute block targets
 <li>subsidy halves in 840k blocks (~2 years)
