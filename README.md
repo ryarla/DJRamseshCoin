@@ -1,11 +1,11 @@
-<h1><a name="djramseshcoin-integrationstaging-tree" class="anchor" href="#djramseshcoin-integrationstaging-tree"><span class="octicon octicon-link"></span></a>DJRamseshCoin integration/staging tree</h1>
+<h1><a name="djramseshcoin-integrationstaging-tree" class="anchor" href="#djramseshcoin-integrationstaging-tree"><span class="octicon octicon-link"></span></a>DJRamseshCoin <br>Integration/Staging Tree</h1>
 
 <p>Website coming soon</p>
 
 <p>Copyright (c) 2009-2013 Bitcoin Developers
 Copyright (c) 2011-2013 Litecoin Developers</p>
 <h2>What is DJRamseshCoin?</h2>
-Coming soon
+Details oming soon, but this will be cryptocoins that will be used to pay DJs. 
 <ul>
 <li>1 minute block targets
 <li>subsidy halves in 840k blocks (~2 years)
