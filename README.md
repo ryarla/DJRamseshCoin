@@ -18,7 +18,7 @@ For more information, as well as an immediately useable, binary version of the L
 <h2>
 <a name="license" class="anchor" href="#license"><span class="octicon octicon-link"></span></a>License</h2>
 
-<p>BBQCoin is released under the terms of the MIT license. See <code>COPYING</code> for more
+<p>DJRamseshCoin is released under the terms of the MIT license. See <code>COPYING</code> for more
 information or see <a href="http://opensource.org/licenses/MIT">http://opensource.org/licenses/MIT</a>.</p>
 
 <h2>
