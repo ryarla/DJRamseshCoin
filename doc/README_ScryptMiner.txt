@@ -1,6 +1,6 @@
 ScryptMiner-GUI
 ===
-
+ 
 A simple GUI for the scrypt-based cpuminer written in C++ using Qt.
 
 To use, copy the minerd executable to the same directory as the GUI itself, alongside with any needed libraries.
